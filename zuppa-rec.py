@@ -1,5 +1,6 @@
 #!/usr/local/bin/python
 # coding: utf-8
+# a small script by Fra Enrico aka Pepato to handle and edit Elder Scrolls book texts from The Imperial Library
 from __future__ import print_function # to write to file with Python 3 syntax - this needs to go on top
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
@@ -64,7 +65,7 @@ def zupparic(file_book):
 	pretty = open(file_out,"w")
 	print(final, file=pretty)
 	pretty.close()
-	# maybe you can do this with less lines, but whatever
+	# maybe you can do this with fewer lines, but whatever
 	# now the /out folder should contain all the books ready to be imported. You will need to delete *manually* the ones you don't want
 
 # zupparic("gods-and-worship.html") # test
