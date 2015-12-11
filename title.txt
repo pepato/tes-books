@@ -1,0 +1,7 @@
+<dc:title>Oblivion Books</dc:title>
+<dc:creator>FraEnrico</dc:creator>
+<dc:date>2015-12-08</dc:date>
+<dc:language>en-US</dc:language>
+<dc:format>epub</dc:format>
+<dc:description>An attempt to create a single ebook with all books from Oblivion. Version 0.8.20151208</dc:description>
+<dc:rights>This is just a fan work for personal use and fun. All content belongs to Bethesda Softworks.</dc:rights> 
