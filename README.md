@@ -8,12 +8,12 @@ The code is just a Python script which uses BeautifulSoup to edit the files. The
 
 The script is based on a Directory system which goes like this:
 
-by-title-oblivion.html		list of books from Oblivion
-by-title-skyrim.html		list of books from Skyrim
-./content/			the html source files for each book
-./out/				the output directory
-./out/content/			where the edited files go
-./out/images/			where images are stored (i.e. the book cover)
-./out/title.txt			the yaml metadata file for Pandoc
+	by-title-oblivion.html		list of books from Oblivion
+	by-title-skyrim.html		list of books from Skyrim
+	./content/			the html source files for each book
+	./out/				the output directory
+	./out/content/			where the edited files go
+	./out/images/			where images are stored (i.e. the book cover)
+	./out/title.txt			the yaml metadata file for Pandoc
 
 [1] http://imperiallibrary.info
